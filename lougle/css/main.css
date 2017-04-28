@@ -1,0 +1,238 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: 'Roboto', arial, sans-serif;
+    line-height: 1.3;
+}
+
+#logo {
+    float: left;
+    padding-right: 20px;
+    padding-left: 15px;
+    padding-top: 25px;
+    width: 140px;
+}
+
+main {
+    margin-left: 120px;
+    width: 1140px;
+}
+
+form {
+    margin-left: 50px;
+    padding-top: 25px;
+}
+
+#search-field{
+    font-size: 16px;
+    padding: 10px;
+    width: 600px;
+    -webkit-box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.25);
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.25);
+    border: 1px solid #d2d2d2;
+}
+
+#icon {
+    height: 35px;
+    margin-bottom: -13px;
+    margin-left: -80px;
+}
+
+#login {
+    float: right;
+    height: 60px;
+    margin: 15px;
+}
+
+nav {
+    background-color: #fafafa;
+    border-bottom: 1px solid #e4e4e4;
+    height: 58px;
+    margin-top: 0px;
+}
+
+header {
+    background-color: #fafafa;
+    height: 65px;
+    margin: 0;
+}
+
+#main-section {
+    font-size: 12px;
+}
+li{
+    display: inline;
+    padding: 0 20px 0 15px;
+}
+
+
+#main-nav { 
+    color: #777;
+    font-size: 13px;
+    float: left;
+    margin-top: 0px;
+    margin-left: -50px;
+    /*margin-left: -50px;*/
+    padding-top: 30px;
+}
+
+
+#all{
+    border-bottom: 3px solid #4285f4;
+    color: #4285f4;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+#main-nav2 {
+    color: #777;
+    font-size: 13px;
+    float: right;
+    margin-top: 0px;
+    margin-right: 700px;
+    padding-top: 30px;
+}
+
+#stat {
+    color: #808080;
+    font-size: 13px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+
+#main-section {
+    float: left;
+    width: 620px;
+}
+
+#name {
+    border: 1px solid #ebebeb;
+    float: left;
+    margin-left: 70px;
+    margin-top: -10px;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width:450px;
+}
+
+#section2pic {
+    border: 1px solid #ebebeb;
+    height: 190px;
+    margin-bottom: 0px;
+    margin-left: 70px;
+    width: 450px;
+    
+}
+aside {
+    float: left;
+    width: 450px;
+}
+#aside-details {
+    border: 1px solid #ebebeb;
+    float: left;
+    margin-left: 70px;
+    padding: 20px;
+    width: 450px;
+}
+
+h1 {
+    color: rgba(0,0,0,.87);
+    font-size: 30px;
+    font-weight: normal;
+    padding-top: 0px;
+    width: 500px;
+}
+
+h5 {
+    color: #777;
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: -20px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+    color: #1a0dab;
+    margin-bottom: 0px;
+}
+
+#emmainfo {
+    font-size: 13px;
+    float: left;
+    line-height: 1.24;
+    margin-bottom: 20px;
+    width: 400px;
+}
+
+#born {
+    margin-bottom: 10px;
+}
+
+#height {
+    margin-bottom: 10px;
+}
+
+#fullname {
+    margin-bottom: 10px;
+}
+
+#tvshows {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #777;
+}
+
+a:hover {
+    text-decoration: underline;#her
+}
+
+a:-webkit-any-link {
+    color: #1a0dab;
+}
+
+h3 {
+    color: #006621;
+    font-weight: normal;
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+
+p {
+    color: #545454;
+    font-size: 13px;
+    line-height: 1.4;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    word-wrap: break-word;
+}
+
+footer {
+    background-color: #fafafa;
+    border-top: 1px solid #e4e4e4;
+    float: none;
+    height: 100px;
+    margin-top: 1100px;
+}
+
+#address {
+    color: #aaa;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+
+
+#footlink {
+    color: #777;
+    font-size: 13px;
+    margin-top: 30px;
+    margin-left: 105px;
+}
